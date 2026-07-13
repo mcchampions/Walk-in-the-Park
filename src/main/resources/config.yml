@@ -251,7 +251,7 @@ particles:
   # -= Particle type =-
   # The type of particle that will appear when a new block generates.
   # You can find all types at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
-  particle-type: 'SPELL_INSTANT'
+  particle-type: 'END_ROD'
 
   # -= Sound type =-
   # The sound that will play when a new block generates.
